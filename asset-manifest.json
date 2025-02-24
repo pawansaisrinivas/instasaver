@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/instasaver/static/css/main.daf41c06.css",
+    "main.js": "/instasaver/static/js/main.b62d5d59.js",
+    "static/js/453.8ab44547.chunk.js": "/instasaver/static/js/453.8ab44547.chunk.js",
+    "index.html": "/instasaver/index.html",
+    "main.daf41c06.css.map": "/instasaver/static/css/main.daf41c06.css.map",
+    "main.b62d5d59.js.map": "/instasaver/static/js/main.b62d5d59.js.map",
+    "453.8ab44547.chunk.js.map": "/instasaver/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf41c06.css",
+    "static/js/main.b62d5d59.js"
+  ]
+}
